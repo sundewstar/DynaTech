@@ -420,8 +420,8 @@ public class DynaTechItemsSetup {
         
         new MaterialHive(DynaTechItems.DT_MACHINES, DynaTechItems.MATERIAL_HIVE, RecipeType.ENHANCED_CRAFTING_TABLE,
             new ItemStack[] {
-                new ItemStack(Materials.MACHINE_CORE), DynaTechItems.ROBOTIC_BEE, new ItemStack(Materials.MACHINE_CORE),
-                new ItemStack(Materials.MACHINE_CORE), new ItemStack(Material.BEEHIVE), new ItemStack(Materials.MACHINE_CORE),
+                Materials.MACHINE_CORE, DynaTechItems.ROBOTIC_BEE, Materials.MACHINE_CORE,
+                Materials.MACHINE_CORE, new ItemStack(Material.BEEHIVE),Materials.MACHINE_CORE,
                 DynaTechItems.ADVANCED_MACHINE_SCRAP, DynaTechItems.MACHINE_SCRAP, DynaTechItems.ADVANCED_MACHINE_SCRAP
         })
         .setEnergyCapacity(8192)
