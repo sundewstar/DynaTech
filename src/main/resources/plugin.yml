@@ -11,7 +11,7 @@ description: A slimefun addon that add random stuff I want
 main: me.profelements.dynatech.DynaTech
 
 ## You can change this to link to your website or repository. You can also remove this line if you want to.
-website: https://github.com/ProfElements/DynaTech
+website: https://github.com/sundewstar/DynaTech
 
 ## This is required and marks Slimefun as a plugin dependency.
 depend: [Slimefun]
